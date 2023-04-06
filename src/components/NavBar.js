@@ -7,10 +7,10 @@
         <h2>React NavBar</h2>
       </div>
       <div className="menubar">
-        <a href="#">Home</a>
-        <a href="#">Profile</a>
-        <a href="#">Products</a>
-        <a href="#">Support</a>
+       <a href="./Home.js">Home</a>
+        <a href="./NavBar.js">Profile</a>
+        <a href="./NavBar.js">Products</a>
+        <a href="./NavBar.js">Support</a>
         <button>
           Logout
         </button>
