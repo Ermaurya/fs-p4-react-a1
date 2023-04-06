@@ -1,0 +1,40 @@
+
+.login-main{
+  width: 513px;
+  height: 278px;
+  box-shadow: 0 0 2px black;
+  padding: 30px;
+  margin: 140px auto;
+  textAlign: center;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+/* .home-main{
+  padding: 30px;
+} */
+.home-h1{
+  color: rgb(128, 0, 23);
+}
+.navbar {
+  background-color: rgb(57, 51, 51);
+  color:white;
+  display: flex;
+  justify-content: center;
+    align-items: center;
+}
+.title {
+  width: 40%;
+  text-align: center;
+}
+.menubar {
+  width: 60%;
+  text-align: center;
+}
+a {
+  color: white;
+  margin-right: 50px;
+  text-decoration: none;
+}
